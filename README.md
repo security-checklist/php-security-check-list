@@ -6,7 +6,6 @@ PHP: Hypertext Preprocessor is a web-based, server-side, multi-use, general-purp
 
 The PHP programming language is still used by a large developer. It is the most known backend programming language. In PHP web applications, I prepared a list called "php security check list" which security researchers should know.
 
-
 * [Full Path Disclosure](https://www.owasp.org/index.php/Full_Path_Disclosure)
 * [Arbitrary File Upload](https://www.owasp.org/index.php/Unrestricted_File_Upload)
 * [Arbitrary File Delete](https://www.acunetix.com/vulnerabilities/web/arbitrary-file-deletion/)
