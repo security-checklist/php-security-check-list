@@ -13,6 +13,7 @@ The PHP programming language is still used by a large developer. It is the most 
 * [Local File Inclusion](https://www.offensive-security.com/metasploit-unleashed/file-inclusion-vulnerabilities/)
 * [Remote File Inclusion](https://www.owasp.org/index.php/Testing_for_Remote_File_Inclusion)
 * [Cookie Injection](https://www.owasp.org/index.php/Testing_for_cookies_attributes_(OTG-SESS-002))
+* [Session hijacking](https://www.owasp.org/index.php/Session_hijacking_attack)
 * [Header Injection](https://www.owasp.org/index.php/Testing_for_HTTP_Parameter_pollution_(OTG-INPVAL-004))
 * [SQL Injection](https://www.owasp.org/index.php/SQL_Injection)
 * [XML Injection](https://www.owasp.org/index.php/Testing_for_XML_Injection_(OTG-INPVAL-008))
