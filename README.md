@@ -27,3 +27,4 @@ The PHP programming language is still used by a large developer. It is the most 
 * [Cross Site Scripting](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 * [Cross Site Request Forgery](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
 * [Broken Authentication and Session Management](https://www.owasp.org/index.php/Broken_Authentication_and_Session_Management)
+* [Session Hijacking Attack](https://www.owasp.org/index.php/Session_hijacking_attack)
