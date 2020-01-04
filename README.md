@@ -1,5 +1,7 @@
 ### PHP Security Check List [ EN ]
 
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> <img src="https://img.shields.io/github/stars/security-checklist/php-security-check-list?style=social"> <img src="https://img.shields.io/github/forks/security-checklist/php-security-check-list?style=social"> <img src="https://img.shields.io/github/repo-size/security-checklist/php-security-check-list"> <img src="https://img.shields.io/github/license/anti-ddos/Anti-DDOS"> <img src="https://img.shields.io/github/issues/detail/author/security-checklist/php-security-check-list/2">
+
 ![PHP-Security-Check-List](/image/php-image.png)
 
 PHP: Hypertext Preprocessor is a web-based, server-side, multi-use, general-purpose, scripting and programming language that can be embedded in HTML. The PHP development, which was first created by Rasmus Lerdorf in 1995, is now being run by the PHP community.
